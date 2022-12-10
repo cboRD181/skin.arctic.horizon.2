@@ -1799,3 +1799,8 @@ msgstr ""
 msgctxt "#31357"
 msgid "Selectbox shadow"
 msgstr ""
+
+#: /1080i/Home.xml
+msgctxt "#9999"
+msgid "Resume"
+msgstr ""
